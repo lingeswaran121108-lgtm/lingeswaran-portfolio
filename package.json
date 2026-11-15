@@ -1,0 +1,21 @@
+{
+  "name": "lingeswaran-portfolio",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Modern, premium personal portfolio for LINGESWARAN D, aspiring AI & ML Engineer.",
+  "scripts": {
+    "start": "py serve.py",
+    "serve": "powershell -ExecutionPolicy Bypass -File serve.ps1"
+  },
+  "keywords": [
+    "portfolio",
+    "artificial-intelligence",
+    "machine-learning",
+    "python",
+    "react",
+    "tailwindcss"
+  ],
+  "author": "LINGESWARAN D",
+  "license": "MIT"
+}
